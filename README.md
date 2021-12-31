@@ -1,47 +1,47 @@
-## Electron + TypeScript + React
-Boilerplate for a project using Electron, React and Typescript
+<p align="center"><img src="https://github.com/AlturaClient/AlturaLauncher/master/src/assets/logo.png" alt="Kubecraft Logo" width="64px" height="64px" /></p>
 
-## Installation
+<p align="center"> <img src="https://github.com/AlturaClient/AlturaLauncher/master/src/assets/logo.png" alt="Kubecraft Logo" width="20px" height="20px" /> Altura Launcher</p>
 
-Use a package manager of your choice (npm, yarn, etc.) in order to install all dependencies
 
-```bash
-npm install
+![GitHub package.json version](https://img.shields.io/github/package-json/v/AlturaClient/AlturaLauncher) ![GitHub issues](https://img.shields.io/github/issues/AlturaClient/AlturaLauncher) ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/AlturaClient/AlturaLauncher)
+
+
+
+<a href="https://github.com/AlturaClient/AlturaLauncher/releases">
+  <img alt="Get it from the GitHub Releases" src="https://img.shields.io/badge/Get%20it%20from%20the-GitHub%20Releases-black?style=for-the-badge&logo=github" />
+</a>
+---
+# Hello there 👋
+
+## Getting Started 👨‍💻
+
+
+
+### Starting Locally 🖥
+1. Clone repository
+```shell
+$ git clone git@github.com:AlturaClient/Alturalauncher.git
+$ cd AlturaLauncher
 ```
-
-```bash
-yarn install
+2. Install dependencies
+#### We strongly recommended using `yarn` instead of `npm`
+```shell
+$ yarn install
 ```
-
-## Usage
-In order to run this project 2 scripts will need to be executed `dev:react` and `dev:electron`, run each one in a different terminal and always run `dev:react` before `dev:electron`, or `dev` to run them in order automatically
-
-```bash
-npm run dev:react
+3. Start Electron in Serve mode
+#### We strongly recommended using `yarn` instead of `npm`
+```shell
+$ yarn run electron:serve
 ```
-```bash
-npm run dev:electron
+4. Build Application
+#### We strongly recommended using `yarn` instead of `npm`
+```shell
+$ yarn run electron:build
 ```
+## Contribuing 🤝
 
-or
+Just fork this repo, make your changes, submit pull request.
 
-```bash
-npm run dev
-```
+## License 📑
 
-## Packaging
-To generate a project package run `package`
-
-```bash
-npm run package
-```
-
-
-
-## Contributing
-
-Pull requests are always welcome 😃.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+See in `LICENSE` file, in the root of project.
