@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/AlturaClient/AlturaLauncher/master/src/assets/logo.png" alt="Kubecraft Logo" width="20px" height="20px" /> Altura Launcher</p>
 
-<center>
+
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/AlturaClient/AlturaLauncher) ![GitHub issues](https://img.shields.io/github/issues/AlturaClient/AlturaLauncher) ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/AlturaClient/AlturaLauncher)
-</center>
+
 
 
 <a href="https://github.com/AlturaClient/AlturaLauncher/releases">
